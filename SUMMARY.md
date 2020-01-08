@@ -8,6 +8,11 @@
 * [gpg命令](docs/gpg命令.md)
     * [基本用法](docs/gpg命令/基本用法.md)
     * [man手冊](docs/gpg命令/man手冊.md)
+    * [gpg --verify校验签名](docs/gpg命令/校验签名.md)
+    * [gpg --export导入导出公私钥](docs/gpg命令/导入导出公私钥.md)
+    * [gpg加密](docs/gpg命令/加密.md)
+    * [gpg解密](docs/gpg命令/解密.md)
+    * [删除公私钥](docs/gpg命令/删除公私钥.md)
+    * [签名及签名验证](docs/gpg命令/签名及签名验证.md)
 * [GPG服务器搭建](docs/GPG服务器搭建.md)
     * [sks keyserver](docs/GPG服务器搭建/skskeyserver.md)
-
