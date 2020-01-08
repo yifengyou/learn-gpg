@@ -16,3 +16,5 @@
     * [签名及签名验证](docs/gpg命令/签名及签名验证.md)
 * [GPG服务器搭建](docs/GPG服务器搭建.md)
     * [sks keyserver](docs/GPG服务器搭建/skskeyserver.md)
+* [GPG公共服务器列表](docs/GPG公共服务器列表.md)
+
